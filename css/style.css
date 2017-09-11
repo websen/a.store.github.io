@@ -1,0 +1,32 @@
+section#main {
+	background-color: #AE1AB5;
+	height: 100vh;
+}
+
+h1 {
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.main_header {
+	margin-top: 25%;
+}
+
+img {
+	height: 150px;
+}
+
+section#example {
+	height: 100vh;
+	padding-top: 200px;
+}
+
+.box {
+	height: 300px;
+	border: 2px solid #a400ae;
+}
+
+.box_in {
+	height: 50px;
+	border: 2px dashed green;
+}
